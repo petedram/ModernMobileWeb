@@ -10,21 +10,21 @@ Todo:
 - Create default front-end layout
 - Add list of capabilities and begin to implement
 
-Icon
-Fixed Nav
-Add to homescreen from menu
-Splashscreen on load
-Hide Browser UI / fullscreen
-SPA with routes
-Dark theme
-Make interactive elements not selectable
-Geo-location
-Autocomplete address bar
-Mobile breakpoints and washout
-Sliders
-Foreground and background on menu
-Notifications
-Offline mode
-
-- Testing on device via local dev environment
+Icon. 
+Fixed Nav. 
+Add to homescreen from menu. 
+Splashscreen on load. 
+Hide Browser UI / fullscreen. 
+SPA with routes. 
+Dark theme. 
+Make interactive elements not selectable. 
+Geo-location. 
+Autocomplete address bar. 
+Mobile breakpoints and washout. 
+Sliders. 
+Foreground and background on menu. 
+Notifications. 
+Offline mode. 
+  
+- Testing on device via local dev environment. 
 
