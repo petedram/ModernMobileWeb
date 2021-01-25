@@ -25,6 +25,7 @@ Sliders.
 Foreground and background on menu. 
 Notifications. 
 Offline mode. 
+Icon shortcuts from homescreen.
   
 - Testing on device via local dev environment. 
 
