@@ -9,6 +9,8 @@ Todo:
 - update latest version of dependencies
 - Create default front-end layout
 - Add list of capabilities and begin to implement
+- Add instructions for contributors (Branching, PR template, structure and standards)
+
 
 Icon. 
 Fixed Nav. 
