@@ -25,9 +25,10 @@ Autocomplete address bar.
 Mobile breakpoints and washout. 
 Sliders. 
 Foreground and background on menu. 
-Notifications. 
+Notifications.
+SMS via Twilio (fall back notifications for iOS).
 Offline mode. 
 Icon shortcuts from homescreen.
-  
+
 - Testing on device via local dev environment. 
 
