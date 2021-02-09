@@ -29,6 +29,7 @@ Notifications.
 SMS via Twilio (fall back notifications for iOS).
 Offline mode. 
 Icon shortcuts from homescreen.
+Icons without Chrome logo.
 
 - Testing on device via local dev environment. 
 
